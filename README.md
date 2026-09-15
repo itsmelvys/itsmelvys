@@ -4,7 +4,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia, desenvolvimento e design.
 
-Atualmente, estou focada em aprimorar minhas habilidades em **desenvolvimento Front-end e Mobile**, transformando ideias em projetos reais e construindo minha trajetória na área de tecnologia.
+Atualmente, estou focada em aprimorar minhas habilidades em **desenvolvimento Front-end e Mobile**, transformando ideias em projetos reais e explorando a união entre **código, criatividade e design de interfaces**.
 
 ---
 
@@ -14,6 +14,7 @@ Atualmente, estou focada em aprimorar minhas habilidades em **desenvolvimento Fr
 - Foco em **Desenvolvimento Front-end**
 - Desenvolvimento de aplicações mobile com **React Native**
 - Interesse por **UI/UX e design de interfaces**
+- Experiência com criação e edição visual utilizando **Adobe Photoshop**
 - Sempre aprendendo, criando e colocando novas ideias em prática
 
 ---
@@ -22,7 +23,9 @@ Atualmente, estou focada em aprimorar minhas habilidades em **desenvolvimento Fr
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,java,python,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,git,github,vscode,figma" />
+
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Adobe Photoshop" />
 
 </div>
 
@@ -65,7 +68,7 @@ Sistema de gerenciamento de estoque e vendas pensado para eventos, com controle 
 <div align="center">
 
 <a href="https://github.com/itsmelvys">
-  <img src="https://img.shields.io/badge/GitHub-itsmelvys-181717?style=flat-square&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-itsmelvys-181717?style=flat-square&logo=github" alt="GitHub">
 </a>
 
 </div>
