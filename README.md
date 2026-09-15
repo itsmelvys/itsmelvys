@@ -1,24 +1,24 @@
-# Hi, I'm Leticia Viviane
+# Olá, eu sou a Leticia Viviane
 
-### Front-end Developer in progress
+### Desenvolvedora Front-end em formação
 
-I'm an Analysis and Systems Development student, passionate about creating interfaces that combine **code, design and good user experiences**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia, desenvolvimento e design.
 
-Currently focused on improving my skills in Front-end and Mobile Development, turning ideas into real projects while building my journey as a developer.
-
----
-
-### About me
-
-- Analysis and Systems Development student
-- Focused on **Front-end Development**
-- Building mobile applications with **React Native**
-- Interested in UI/UX and interface design
-- Always learning and creating new projects
+Atualmente, estou focada em aprimorar minhas habilidades em **desenvolvimento Front-end e Mobile**, transformando ideias em projetos reais e construindo minha trajetória na área de tecnologia.
 
 ---
 
-### Tech Stack
+### Sobre mim
+
+- Graduanda em Análise e Desenvolvimento de Sistemas
+- Foco em **Desenvolvimento Front-end**
+- Desenvolvimento de aplicações mobile com **React Native**
+- Interesse por **UI/UX e design de interfaces**
+- Sempre aprendendo, criando e colocando novas ideias em prática
+
+---
+
+### Tecnologias e ferramentas
 
 <div align="left">
 
@@ -28,19 +28,23 @@ Currently focused on improving my skills in Front-end and Mobile Development, tu
 
 ---
 
-### Featured Projects
+### Projetos em destaque
 
 #### FocaAí
-Study planner developed with React Native and JavaScript, focused on helping students organize subjects, tasks and their academic routine.
+
+Planner de estudos desenvolvido em **React Native e JavaScript**, criado para ajudar estudantes a organizar matérias, tarefas e sua rotina acadêmica.
 
 #### Caderneta+
-Mobile application designed to help parents organize and monitor children's vaccination schedules based on the Brazilian SUS vaccination calendar.
+
+Aplicativo mobile desenvolvido para auxiliar pais e responsáveis na organização e acompanhamento da vacinação infantil, utilizando como referência o calendário de vacinação do SUS.
 
 #### LogiTrack
-Mobile application for tracking and managing deliveries, allowing users to follow orders, check their status and organize deliveries.
+
+Aplicativo mobile para rastreamento e gerenciamento de entregas, permitindo acompanhar pedidos, consultar status e organizar novas entregas.
 
 #### QuickStock
-Inventory and sales management system designed for events, with features for products, stock control, cash sessions and sales.
+
+Sistema de gerenciamento de estoque e vendas pensado para eventos, com controle de produtos, estoque, sessões de caixa e registro de vendas.
 
 ---
 
@@ -56,9 +60,9 @@ Inventory and sales management system designed for events, with features for pro
 
 ---
 
-<div align="center">
+### Vamos nos conectar?
 
-### Let's connect
+<div align="center">
 
 <a href="https://github.com/itsmelvys">
   <img src="https://img.shields.io/badge/GitHub-itsmelvys-181717?style=flat-square&logo=github">
@@ -69,5 +73,5 @@ Inventory and sales management system designed for events, with features for pro
 <br>
 
 <div align="center">
-  <i>Code, design & a little bit of chaos.</i>
+  <i>Código, design e um pouquinho de caos.</i>
 </div>
