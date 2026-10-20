@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=190&section=header&text=Leticia%20Viviane&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=lvys%20%E2%80%A2%20Front-end%20%26%20Mobile&descAlignY=58&descSize=18&animation=fadeIn" alt="Leticia Viviane" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=190&section=header&text=Leticia%20Viviane&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=lvys%20%E2%80%A2%20Front-end%20e%20Mobile&descAlignY=58&descSize=18&animation=fadeIn" alt="Leticia Viviane" />
 
 <a href="https://github.com/itsmelvys">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=FF79C6&center=true&vCenter=true&width=520&lines=Desenvolvedora+Front-end+em+forma%C3%A7%C3%A3o;React+%E2%80%A2+React+Native+%E2%80%A2+JavaScript;C%C3%B3digo%2C+design+e+um+pouquinho+de+caos+%E2%9C%A8" alt="Desenvolvedora Front-end em formação" />
