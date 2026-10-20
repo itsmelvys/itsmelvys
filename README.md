@@ -8,8 +8,6 @@
 
 <img src="https://img.shields.io/badge/ADS-Estudante-bd93f9?style=for-the-badge&logo=bookstack&logoColor=white" alt="Estudante de ADS" />
 <img src="https://img.shields.io/badge/Caruaru-PE-ff79c6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Caruaru, PE" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=itsmelvys.itsmelvys&left_text=Visitas&left_color=%23bd93f9&right_color=%23ff79c6" alt="Visitas ao perfil" />
-
 </div>
 
 ---
