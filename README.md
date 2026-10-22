@@ -53,7 +53,7 @@ const leticia = {
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
     </td>
     <td width="50%" valign="top">
-      <h3>🏰 <a href="https://github.com/AndetonAf/CaruaruGameJam2026">A Torre dos Amaldiçoados</a></h3>
+      <h3>🏰 A Torre dos Amaldiçoados</h3>
       <p>Roguelite cooperativo feito em equipe na Caruaru Game Jam 2026. Construí o cenário dos andares da torre e os baús de vida, mana e armadilha.</p>
       <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
@@ -67,7 +67,7 @@ const leticia = {
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
     <td width="50%" valign="top">
-      <h3>💉 <a href="https://github.com/itsmelvys/CadernetaMais">Caderneta+</a></h3>
+      <h3>💉 Caderneta+</h3>
       <p>App, unindo saúde e tecnologia, para pais e responsáveis organizarem e acompanharem a vacinação infantil, com base no calendário de vacinação do SUS.</p>
       <img src="https://img.shields.io/badge/Mobile-bd93f9?style=flat-square&logo=android&logoColor=white" alt="Mobile" />
     </td>
