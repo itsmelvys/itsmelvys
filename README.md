@@ -14,12 +14,15 @@
 
 ## 💜 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia, desenvolvimento e design. Hoje estou focada em **Front-end e Mobile**, transformando ideias em projetos reais e explorando a união entre **código, criatividade e design de interfaces**.
+Sou estudante do 4º período de **Análise e Desenvolvimento de Sistemas** na UNINASSAU Caruaru (conclusão prevista para o fim de 2026), apaixonada por tecnologia, desenvolvimento e design. Hoje estou focada em **Front-end e Mobile**, transformando ideias em projetos reais e explorando a união entre **código, criatividade e design de interfaces**.
+
+Venho da saúde: atuo como **técnica de enfermagem**. Essa vivência me ensinou responsabilidade, organização, atenção aos detalhes e que uma solução só é boa quando funciona de verdade para quem vai usá-la.
 
 ```js
 const leticia = {
   apelido: "lvys",
   formacao: "Análise e Desenvolvimento de Sistemas",
+  experiencia: "Técnica de enfermagem",
   foco: ["Front-end", "Mobile com React Native"],
   interesses: ["UI/UX", "Design de interfaces", "Edição visual no Photoshop"],
   lema: "Sempre aprendendo, criando e colocando ideias em prática ✨",
@@ -43,17 +46,30 @@ const leticia = {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/LuanSantos26/Stock4Event-FrontEnd">Stock4Event</a></h3>
+      <p>Gestão de estoque, vendas e eventos, com app mobile e API (projeto em equipe). Fiz telas, identidade visual e a integração do app com a API. <a href="https://github.com/LuanSantos26/Stock4Event-BackEnd">Back-End</a></p>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏰 <a href="https://github.com/AndetonAf/CaruaruGameJam2026">A Torre dos Amaldiçoados</a></h3>
+      <p>Roguelite cooperativo feito em equipe na Caruaru Game Jam 2026. Construí o cenário dos andares da torre e os baús de vida, mana e armadilha.</p>
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📚 <a href="https://github.com/itsmelvys/FocaAi">FocaAí</a></h3>
       <p>Planner de estudos que ajuda estudantes a organizar matérias, tarefas, provas e a rotina acadêmica. Projeto de extensão do curso de ADS.</p>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
     <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/LuanSantos26/Mobile">QuickStock</a></h3>
-      <p>Gestão de estoque e vendas para eventos: produtos, estoque por quiosque, marketplace entre distribuidoras e acompanhamento de pedidos.</p>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+      <h3>💉 <a href="https://github.com/itsmelvys/CadernetaMais">Caderneta+</a></h3>
+      <p>App, unindo saúde e tecnologia, para pais e responsáveis organizarem e acompanharem a vacinação infantil, com base no calendário de vacinação do SUS.</p>
+      <img src="https://img.shields.io/badge/Mobile-bd93f9?style=flat-square&logo=android&logoColor=white" alt="Mobile" />
     </td>
   </tr>
   <tr>
@@ -64,19 +80,13 @@ const leticia = {
       <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
     </td>
     <td width="50%" valign="top">
-      <h3>💉 Caderneta+</h3>
-      <p>App para pais e responsáveis organizarem e acompanharem a vacinação infantil, com base no calendário de vacinação do SUS.</p>
-      <img src="https://img.shields.io/badge/Mobile-bd93f9?style=flat-square&logo=android&logoColor=white" alt="Mobile" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
       <h3>⭕ <a href="https://github.com/itsmelvys/Mostra-Campus-Jogo-da-Velha">Jogo da Velha · Mostra Campus</a></h3>
       <p>Jogo da Velha interativo para o Mostra Campus 2026.2 da UNINASSAU Caruaru, com um adversário que joga usando o algoritmo Minimax.</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
+
   </tr>
 </table>
 
@@ -99,6 +109,9 @@ const leticia = {
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/leticia-viviane-996774234/">
+  <img src="https://img.shields.io/badge/LinkedIn-Letícia_Viviane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="https://github.com/itsmelvys">
   <img src="https://img.shields.io/badge/GitHub-itsmelvys-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
